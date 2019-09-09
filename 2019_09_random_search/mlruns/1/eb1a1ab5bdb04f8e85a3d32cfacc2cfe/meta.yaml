@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rallesiardo/OneDrive%20-%20PagesJaunes/Machine%20Learning/GuildeIA/solocal_AI_CoF/random_search/mlruns/1/eb1a1ab5bdb04f8e85a3d32cfacc2cfe/artifacts
+end_time: 1568037603291
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: eb1a1ab5bdb04f8e85a3d32cfacc2cfe
+run_uuid: eb1a1ab5bdb04f8e85a3d32cfacc2cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1568037602916
+status: 3
+tags: []
+user_id: rallesiardo
