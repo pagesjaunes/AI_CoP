@@ -13299,7 +13299,7 @@ a.anchor-link {
 <h1 id="Empirical-Risk-Minimization">Empirical Risk Minimization<a class="anchor-link" href="#Empirical-Risk-Minimization">&#182;</a></h1><p>Empirical Risk :
 $$R_\text{emp}(\pi) = \frac{\sum^n_{i = 1} L(\pi(x_i),y_i) }{n} \text{.}$$</p>
 <p><strong>McDiarmid inequalitie</strong> for any $\epsilon &gt; 0$ : 
-$$ P( |R_\text{emp}(\pi) - R(\pi)| \geq \epsilon) \leq \text{exp}\left( \frac{2\epsilon^2}{\sum^n_{i=1} c^2} \right)\text{,}$$
+$$ P( |\sum^n_{i = 1} L(\pi(x_i),y_i) - nR(\pi))| \geq \epsilon) \leq \text{exp}\left( \frac{2\epsilon^2}{\sum^n_{i=1} c^2} \right)\text{,}$$
 where $c &gt; | L(\pi(x_i),y_i) - L(\pi(x_j),y_j) |$</p>
 
 </div>
